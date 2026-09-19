@@ -5,7 +5,7 @@
 Project Work di laurea — Informatica per le aziende digitali (L-31), Università Telematica Pegaso.
 Traccia: *Tecnologia web per la sostenibilità d'impresa — Sviluppo di una pagina web per il download dei report di sostenibilità di un'impresa del settore primario.*
 
-🔗 **Sito online:** https://github.com/michelecipriani-mc/Project_Work_Unipegaso_L31
+🔗 **Repository GitHub:** https://github.com/michelecipriani-mc/Project_Work_Unipegaso_L31
 
 > ⚠️ **Progetto accademico non ufficiale.** Il sito è dimostrativo e non è affiliato a Tinazzi Srl.
 > I contenuti sono basati su fonti pubbliche e il Bilancio di Sostenibilità viene aperto direttamente dal dominio ufficiale tinazzi.it.
@@ -56,7 +56,7 @@ Il sito non sostituisce il Bilancio: è un livello informativo intermedio che ac
 | Comportamento | JavaScript (ES2017+, `fetch`, `async/await`, IntersectionObserver) |
 | Componenti UI | Bootstrap 5.3, MDB UI Kit 9 |
 | Icone e font | Font Awesome 6, Google Fonts (Fraunces, Manrope) |
-| Versionamento | Git, GitHub Desktop, GitHub Pages |
+| Versionamento | Git, GitHub Desktop, GitHub |
 
 Le librerie esterne sono caricate da CDN: **non serve installare dipendenze** (niente `npm install`).
 
